@@ -1,2 +1,2 @@
 # Boards
-Tilto's public boards
+[Sentinel 🤖](https://github.com/orgs/businesstilto/projects/10)
